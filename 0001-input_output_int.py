@@ -1,4 +1,4 @@
-# A program that receive a number and return it
+# A program that receives a number and return it
 
 while True:
     try:
